@@ -5,9 +5,9 @@
   <img src="https://fresh.deno.dev/illustration/lemon-squash.svg?__frsh_c=ptksa38d3kvg">
 <p>
 
-[Fresh](https://fresh.deno.dev/) is a next generation web framework, built for speed, reliability, and simplicity. Some stand out features:
+This is an exercise project, to explore the Fresh framework functionalities using content from Studio Ghibli API.
 
-This is an exercise project, to explore the framework functionalities using content from Studio Ghibli API.
+[Fresh](https://fresh.deno.dev/) is a next generation web framework, built for speed, reliability, and simplicity. Some stand out features:
   
 - Just-in-time rendering on the edge.  
 - Island based client hydration for maximum interactivity.  
