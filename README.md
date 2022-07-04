@@ -5,7 +5,9 @@
   <img src="https://fresh.deno.dev/illustration/lemon-squash.svg?__frsh_c=ptksa38d3kvg">
 <p>
 
-This is an exercise project, to explore the Fresh framework functionalities using content from Studio Ghibli API.
+This is an exercise project, to explore the Fresh framework functionalities using content from Studio Ghibli API. 
+
+[Demo](https://lfalmeida-deno-fresh.deno.dev/)
 
 [Fresh](https://fresh.deno.dev/) is a next generation web framework, built for speed, reliability, and simplicity. Some stand out features:
   
@@ -27,3 +29,4 @@ To get started, make sure you have the [Deno](https://deno.land/) CLI version 1.
 You can now open http://localhost:8000 in your browser to view the page.
 
 A more in-depth getting started guide is available in the [docs](https://fresh.deno.dev/docs/introduction).
+   
